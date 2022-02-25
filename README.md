@@ -1,2 +1,6 @@
 # Stokvel-Protocol
 Welcome to the African Blockchain Renaissance.
+The mission for the Stokvel project is to create a privacy focused, anonymous and decentralized payment network that is based on a sustainable ASIC resistant hybrid proof-of-work/Byzantine fault tolerant delegated proof-of-stake consensus engine, with incentivized operators. The outlying products and services offered, are focused on simplicity, while at the same time, providing accessible and practical solutions, for wealth creation, and mainstream adoption. These changes will push cryptocurrencies as a whole, towards making a greater economic impact on the African society, for a truly, functional, private, and accessible decentralized, electronic financial system. 
+Stokvel’s vision goes well beyond any offering currently tantalizing the market. Fully researched an tested technical specifications related to the inner workings, and operational functions of this blockchain will soon move from testnet to main. Finally, information regarding the current Stokvel Africa team is given as it grows, and plans, for the future ahead of us.
+We believe in a future where work and play can become one. We believe in empowering our users by providing them opportunities to secure a stable economic financial future. 
+Welcome to the African Blockchain Renaissance.
